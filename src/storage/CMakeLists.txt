@@ -39,6 +39,7 @@ ob_set_subtarget(ob_storage blocksstable
   blocksstable/ob_micro_block_row_lock_checker.cpp
   blocksstable/ob_micro_block_scanner.cpp
   blocksstable/ob_micro_block_writer.cpp
+  blocksstable/encoding/ob_micro_block_pfor_encoder.cpp
   blocksstable/ob_raid_file_system.cpp
   blocksstable/ob_row_cache.cpp
   blocksstable/ob_row_reader.cpp
